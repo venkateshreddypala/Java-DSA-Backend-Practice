@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.dsa.dp.KadaneMaximumSubarrayTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-09-04T03:01:40" hostname="Nanis-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="single()" classname="dev.dsa.dp.KadaneMaximumSubarrayTest" time="0.001"/>
+  <testcase name="basic()" classname="dev.dsa.dp.KadaneMaximumSubarrayTest" time="0.001"/>
+  <testcase name="all_negative()" classname="dev.dsa.dp.KadaneMaximumSubarrayTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
